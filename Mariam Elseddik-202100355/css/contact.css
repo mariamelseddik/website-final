@@ -1,0 +1,146 @@
+body {
+    margin: 0%;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 0%;
+    background-color: #E6E7E8;
+}
+
+div {
+    max-width: 100%;
+    min-height: 0%;
+    max-height: 80%;
+}
+
+#main {
+    min-height: 700px;
+    max-height: 100%;
+    min-width: 0%;
+    max-width: 100%;
+}
+
+
+#navigationBarList {
+    position: absolute;
+    width: 1500px;
+    height: 70px;
+    margin-left: 200px;
+    margin-top: 5.5%;
+}
+
+#topleft {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 5px;
+    font-family: 'Times New Roman', serif;
+    font-size: 40px;
+    max-width: 300px;
+
+}
+
+#contact {
+    position: absolute;
+    top: 25px;
+    left: 270px;
+    font-family: 'Calibri';
+    font-size: 45px;
+    max-width: 800px;
+    background-color: #b8b8b8;
+    padding: 20px; 
+    border-radius: 1px; 
+
+}
+#txtbox {
+    position: absolute;
+    top: 150px;
+    left: 220px;
+    margin: 50px;
+    font-size: 28px;
+    width: 500px;
+    font-family: 'Calibri', serif;
+
+}
+
+#txtbox2 {
+    position: absolute;
+    top: 540px;
+    left: 220px;
+    margin: 50px;
+    font-size: 28px;
+    width: 100px;
+    font-family: 'Calibri', serif;
+
+}
+#txtbox3 {
+    position: absolute;
+    top: 250px;
+    left: 1100px;
+    margin: 50px;
+    font-size: 28px;
+    width: 100px;
+    font-family: 'Calibri', serif;
+
+}
+
+#mobileimg {
+    position: absolute;
+    top: 340px;
+    left: 400px;
+    margin: 5px;
+    font-family: 'Times New Roman', serif;
+    font-size: 40px;
+    max-width: 300px;
+
+}
+#mailimg {
+    position: absolute;
+    top: 40px;
+    left: -50px;
+
+}
+#igimg {
+    position: absolute;
+    top: -100px;
+    left: 380px;
+
+}
+
+
+#navigationBarList ul {
+    margin-left: 800px;
+    margin-top: -135px;
+    position: absolute;
+    z-index: 999;
+
+}
+
+#navigationBarList li {
+    display: inline;
+    margin-left: 10px;
+    font-weight: 10000;
+    font-family: 'Calibri';
+    text-align: right;
+}
+
+#navigationBarList li a {
+    color: #000000;
+    font-size: 15px;
+}
+
+
+#greenback {
+    margin-top: 250px;
+    background-color: #688583;
+    width: 110%;
+    height: 300px;
+    border-radius: 1%;
+    position: absolute;
+}
+
+
+#mainMid {
+    height: 80%;
+    width: 100%;
+    margin: 40px 70px 0px 70px;
+}
